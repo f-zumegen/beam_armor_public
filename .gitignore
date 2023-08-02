@@ -1,0 +1,7 @@
+.vscode
+*.pdf
+*.png
+*.jpg
+*.iq
+*.asv
+srsRAN/build/
